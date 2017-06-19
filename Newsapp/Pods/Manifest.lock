@@ -1,0 +1,22 @@
+PODS:
+  - BTNavigationDropdownMenu (0.4.1)
+
+DEPENDENCIES:
+  - BTNavigationDropdownMenu (from `https://github.com/PhamBaTho/BTNavigationDropdownMenu.git`, branch `swift-3.0`)
+
+EXTERNAL SOURCES:
+  BTNavigationDropdownMenu:
+    :branch: swift-3.0
+    :git: https://github.com/PhamBaTho/BTNavigationDropdownMenu.git
+
+CHECKOUT OPTIONS:
+  BTNavigationDropdownMenu:
+    :commit: 2c08c8579cf7a53ecb3dbf578e6e1034080a9859
+    :git: https://github.com/PhamBaTho/BTNavigationDropdownMenu.git
+
+SPEC CHECKSUMS:
+  BTNavigationDropdownMenu: 093f3cbfad1572f2c222bdf8d17584d1e13380d4
+
+PODFILE CHECKSUM: 7e758ff53bf72b2d8990e990db34d956c98c2946
+
+COCOAPODS: 1.2.1
